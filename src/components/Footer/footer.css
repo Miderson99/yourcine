@@ -1,0 +1,27 @@
+.main-footer  {
+    display: flex;
+    background-color: #091F1A;
+    align-items: center;
+    padding: 64px;
+    justify-content: space-between;
+}
+
+.main-footer .logo-image {
+    width: 250px;
+}
+
+.main-footer ul {
+    margin: 16px;
+    display: flex;
+    gap: 8px;
+    width: 150px;
+    list-style: none;
+}
+
+
+.main-footer h3 {
+    
+        margin: 16px;
+    font-size:small;
+    color: antiquewhite;
+}
